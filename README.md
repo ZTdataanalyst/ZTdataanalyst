@@ -1,4 +1,4 @@
-## Hi, I'm Zaria Taylor 👋
+## 👋 Hi, I'm Zaria Taylor!
 
 <!--
 **ZTdataanalyst/ZTdataanalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
