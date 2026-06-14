@@ -1,13 +1,90 @@
-## 👋 Hi, I'm Zaria Taylor 
+# 👋 Hi, I'm Zaria Taylor 
 
-- 🔭  I’m currently working on 
-- 🌱 I’m currently learning SQL, Python, Tableau, Statistics
-- 👯 I’m looking to collaborate on my next Hackathon with Bloomberg & The Knowledge House
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: 
-- 😄 Pronouns: She, Her, Hers
-- ⚡ Fun fact: I Lived on a sailboat for a week and cooked vegitarian meals for my fellow sailors
+### Data Analyst Fellow | Sociologist | Licensed Life Insurance Professional | Community‑Centered Problem Solver
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=120&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=35&animation=fadeIn" />
+
+## 🚀 About Me
+I’m an emerging data professional with a sociology foundation and hands‑on experience across financial services, science education, event operations, and tech innovation. I’m passionate about transforming real‑world data into insights that support equity, efficiency, and better decision‑making.
+
+As a Data Analyst Fellow at The Knowledge House, I’m building strong skills in Python, SQL, data engineering, and AI‑powered workflows — with a focus on clean pipelines, reproducible analysis, and clear storytelling.
+
+---
+
+## 🛠️ Tech Stack & Tools
+Languages & Data
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+
+Libraries & Visualization
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+Tools & Workflow
+
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZTdataanalyst&show_icons=true&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZTdataanalyst&layout=compact&theme=radical&hide_border=true" height="180"/>
+</p>
+
+---
+
+## 📌 Current Projects
+- Building analytics portfolio projects using real‑world datasets
+
+- Developing clean, documented data pipelines
+
+- Exploring AI‑assisted workflows for analysis and reporting
+
+- Strengthening SQL + Python automation skills
+
+---
+
+## 🌱 What I’m Learning
+- Data engineering fundamentals
+
+- Cloud concepts
+
+- Advanced SQL
+
+- AI‑powered productivity tools
+
+---
+
+## 👯 I’m looking to... 
+Collaborate on my next Hackathon with Bloomberg & The Knowledge House
+
+---
+
+## 🎨 Fun Facts
+- I love warm, intentional, creative experiences
+
+- I’m passionate about financial empowerment
+
+- I enjoy exploring NYC in meaningful, intentional ways
+
+- I bring a people‑centered lens to every tech project
+
+- I Lived on a sailboat for a week and cooked vegitarian meals for my fellow sailors
+
+---
+
+## 🤝 Let’s Connect
+📌 LinkedIn: www.linkedin.com/in/zaria-taylor
+
+📌 Portfolio: Add when ready
 
 
 <!--
