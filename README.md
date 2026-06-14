@@ -1,12 +1,23 @@
 # 👋 Hi, I'm Zaria Taylor 
 
-### Data Analyst Fellow | Sociologist | Licensed Life Insurance Professional | Community‑Centered Problem Solver
+### Data Analyst Fellow | Sociologist | Licensed Life Insurance Professional | Community-Centered Leader
 <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=120&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=35&animation=fadeIn" />
 
 ## 🚀 About Me
-I’m an emerging data professional with a sociology foundation and hands‑on experience across financial services, science education, event operations, and tech innovation. I’m passionate about transforming real‑world data into insights that support equity, efficiency, and better decision‑making.
+I’m a data‑driven problem solver with a sociology foundation and hands‑on experience across financial services, tech innovation, and community‑centered programming. I specialize in transforming real‑world data into insights that support equity, operational efficiency, and better decision‑making.
 
-As a Data Analyst Fellow at The Knowledge House, I’m building strong skills in Python, SQL, data engineering, and AI‑powered workflows — with a focus on clean pipelines, reproducible analysis, and clear storytelling.
+As a Data Analyst Fellow at The Knowledge House, I’m building strong technical skills in Python, SQL, data engineering fundamentals, and AI‑powered workflows. My work blends analytical rigor with human‑centered thinking, allowing me to approach problems from both a systems and people perspective.
+
+I’m especially interested in roles where data, operations, and community impact intersect. I thrive in environments that require clarity, structure, and thoughtful communication, and I bring a unique ability to translate complex information into accessible stories that drive action.
+
+---
+
+## 🎯 Currently Seeking Roles in: 
+- Data Analyst
+- Business Analyst
+- Data Journalism / Visual Storytelling
+- Program or Operations Analyst
+- Impact & Evaluation Roles
 
 ---
 
@@ -54,7 +65,7 @@ Tools & Workflow
 
 ## 🌱 What I’m Learning
 - Data engineering fundamentals
-
+  
 - Cloud concepts
 
 - Advanced SQL
@@ -64,7 +75,7 @@ Tools & Workflow
 ---
 
 ## 👯 I’m looking to... 
-Collaborate on my next Hackathon with Bloomberg & The Knowledge House
+Participate in my next Hackathon with Bloomberg & The Knowledge House and collaborate with other emerging technologists.
 
 ---
 
@@ -82,10 +93,16 @@ Collaborate on my next Hackathon with Bloomberg & The Knowledge House
 ---
 
 ## 🤝 Let’s Connect
-📌 LinkedIn: www.linkedin.com/in/zaria-taylor
+<p align="center">
+<a href="www.linkedin.com/in/zaria-taylor">LinkedIn</a> •
+<a href="mailto:zariaalztaylor@outlook.com">Email</a> •
+<a href="https://github.com/ZTdataanalyst">GitHub</a>
+</p>
 
-📌 Portfolio: Add when ready
-
+---
+<p align="center">
+⚡ Data. Empowering. Decisions. ⚡
+</p>
 
 <!--
 **ZTdataanalyst/ZTdataanalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
