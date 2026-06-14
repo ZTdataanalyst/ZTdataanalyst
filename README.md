@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Zaria Taylor 
 
-### Data Analyst Fellow | Sociologist | Licensed Life Insurance Professional | Community-Centered Leader
+### Data Analyst Fellow | Sociologist | Licensed Life Insurance Professional | Community Centered Leader
 <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=120&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=35&animation=fadeIn" />
 
 ## 🚀 About Me
