@@ -92,6 +92,9 @@ Participate in my next Hackathon with Bloomberg & The Knowledge House and collab
 
 ---
 
+## 📄 My Resume
+[Click here to view my resume](https://github.com/ZTdataanalyst/ZTdataanalyst/blob/main/Zaria%20Taylor_Data_Analytics_Resume.pdf)
+
 ## 🤝 Let’s Connect
 <p align="center">
 <a href="www.linkedin.com/in/zaria-taylor">LinkedIn</a> •
