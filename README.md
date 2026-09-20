@@ -116,5 +116,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: 
 - 😄 Pronouns: She, Her, Hers
-- ⚡ Fun fact: I Lived on a sailboat for a week and cooked vegitarian meals for my fellow sailors
+- ⚡ Fun fact: I lived on a sailboat for a week and cooked vegitarian meals for my fellow sailors
 -->
