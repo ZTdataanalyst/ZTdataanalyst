@@ -74,7 +74,7 @@ Tools & Workflow
 ---
 
 ## 👯 I’m looking to... 
-Participate in my next Hackathon with Bloomberg & The Knowledge House and collaborate with other emerging technologists.
+Land my 1st data analytics role centered around financial and socioeconomic empowerment. 
 
 ---
 
