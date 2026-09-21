@@ -74,7 +74,7 @@ Tools & Workflow
 ---
 
 ## 👯 I’m looking to... 
-Land my 1st data analytics role centered around financial and socioeconomic empowerment for unserserved communities.
+Land my 1st data analytics role centered around financial and socioeconomic empowerment for underserved communities.
 
 ---
 
