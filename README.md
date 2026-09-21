@@ -96,7 +96,7 @@ Participate in my next Hackathon with Bloomberg & The Knowledge House and collab
 
 ## 🤝 Let’s Connect
 <p align="center">
-<a href="www.linkedin.com/in/zaria-taylor">LinkedIn</a> •
+<a href="https://www.linkedin.com/in/zaria-taylor/">LinkedIn</a> •
 <a href="mailto:zariaalztaylor@outlook.com">Email</a> •
 <a href="https://github.com/ZTdataanalyst">GitHub</a>
 </p>
